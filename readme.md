@@ -1,4 +1,4 @@
-#repos readme
+# fallout readme
 
 voici les regles a respecter pour ce projet
 
